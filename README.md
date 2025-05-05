@@ -12,17 +12,17 @@ Hi! I’m Ken — a passionate frontend developer who thrives on crafting clean,
 Currently leveling up with:
 - ⚙️ **Next.js** (App Router, Server Actions, ISR)
 - 🧩 **MERN Stack** (MongoDB, Express, React, Node)
-- 🔍 Exploring **Fullstack** possibilities
+- 🔍 Exploring **Fullstack** possibilities with **Laravel**, **MySQL**, and **WordPress**
 
 ---
 
 ## 🛠 Tech Stack I Work With
 
 **Languages**  
-`JavaScript` · `HTML5` · `CSS3 / SCSS`
+`JavaScript` · `HTML5` · `CSS3 / SCSS` · `PHP` · `MySQL`
 
 **Frameworks & Tools**  
-`Next.js` · `React` · `Tailwind CSS` · `Bootstrap` · `Alpine.js` · `Chart.js`
+`Next.js` · `React` · `Tailwind CSS` · `Bootstrap` · `Alpine.js` · `Chart.js` · `Laravel` · `WordPress` · `Elementor`
 
 **Design & Workflow**  
 `Figma` · `Git` · `Responsive Design` · `Component-Based Architecture`
@@ -38,8 +38,8 @@ Currently leveling up with:
 
 ## 💬 Fun Facts
 
-- ☕ I debug best with coffee.
-- 🎧 I code with music — lo-fi is life.
+- ☕ I debug best with coffee.  
+- 🎧 I code with music — lo-fi is life.  
 - 🧩 I love figuring out pixel-perfect designs and turning them into code.
 
 ---
