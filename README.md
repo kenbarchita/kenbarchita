@@ -1,40 +1,52 @@
-# Ken Jhi · Frontend Developer
+# 👋 Hey, I’m Ken Jhi
 
-Hi! I'm Ken, a frontend developer from the Philippines 🇵🇭 focused on building fast, accessible, and user-friendly web interfaces with **Next.js** and modern web technologies.
-
----
-
-## 🚀 What I Do
-
-- ⚡ Frontend development with React & Next.js  
-- 🎨 UI/UX design with a focus on responsiveness and accessibility  
-- 🔧 Building reusable components and scalable design systems  
-- 🧪 Learning fullstack development with the **MERN Stack**
+🎯 **Frontend Developer | UI/UX Enthusiast | Code & Coffee Lover**  
+📍 Based in the Philippines — building sleek, responsive web apps with **Next.js**
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 A Little About Me
 
-**Languages & Markup**  
-`HTML` · `CSS / SCSS` · `JavaScript` · `TypeScript`
+Hi! I’m Ken — a passionate frontend developer who thrives on crafting clean, modern user interfaces. Whether it's building out sleek dashboards, responsive layouts, or reusable components, I'm all about **performance, accessibility, and user-first design**.
 
-**Frameworks & Libraries**  
-`Next.js` · `React` · `Tailwind CSS` · `Bootstrap` · `Alpine.js`
-
-**Tools & Design**  
-`Figma` · `Chart.js` · `Git / GitHub`
+Currently leveling up with:
+- ⚙️ **Next.js** (App Router, Server Actions, ISR)
+- 🧩 **MERN Stack** (MongoDB, Express, React, Node)
+- 🔍 Exploring **Fullstack** possibilities
 
 ---
 
-## 📫 Contact
+## 🛠 Tech Stack I Work With
 
-Feel free to connect or collaborate:
+**Languages**  
+`JavaScript` · `HTML5` · `CSS3 / SCSS`
 
-- **Email:** kenbarchita@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ken-jhi-barchita](https://www.linkedin.com/in/ken-jhi-barchita-55376718b)
+**Frameworks & Tools**  
+`Next.js` · `React` · `Tailwind CSS` · `Bootstrap` · `Alpine.js` · `Chart.js`
+
+**Design & Workflow**  
+`Figma` · `Git` · `Responsive Design` · `Component-Based Architecture`
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
+## 🔗 Let's Connect
 
+📧 **kenbarchita@gmail.com**  
+💼 [LinkedIn: Ken Jhi Barchita](https://www.linkedin.com/in/ken-jhi-barchita-55376718b)
+
+---
+
+## 💬 Fun Facts
+
+- ☕ I debug best with coffee.
+- 🎧 I code with music — lo-fi is life.
+- 🧩 I love figuring out pixel-perfect designs and turning them into code.
+
+---
+
+> *"Design is not just what it looks like and feels like. Design is how it works."*  
+> — **Steve Jobs**
+
+---
+
+Thanks for stopping by! ⭐ If you like what I do, feel free to connect or collaborate.
